@@ -13,6 +13,12 @@ python3 main.py
 python3 -m venv [nombre de ambiente]
 ```
 
+# Creación de requirements.txt
+
+``` sh
+pip3 freeze > requirements.txt
+```
+
 # Ambiente virtual 
 
 ``` sh
